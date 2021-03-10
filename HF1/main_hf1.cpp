@@ -20,6 +20,8 @@ T Newton(F1 fun, F2 dif, T x0) {
 
 int main(int argc, const char * argv[]) {
     
-    std::cout << Newton([](double x){ return x*x-612.0;},[](double x){ return 2.0*x; }, 10.0) << "\n";
+    std::cout.precision(17);
+    
+    std::cout << std::fixed << Newton([](double x){ return x*x-612.0;},[](double x){ return 2.0*x; }, 10.0) << "\n";
     
 }
