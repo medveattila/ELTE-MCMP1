@@ -1,0 +1,1 @@
+Középpontos integrál: 205.376, Trapéz integrál: 205.376, Simpson 1/3 integrál: 205.376
