@@ -1,0 +1,1 @@
+Analitikus megoldás: 1.55741, Newton-módszer megoldás: 1.55531, Runge-Kutta megoldás: 1.55741
